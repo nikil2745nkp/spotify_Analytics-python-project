@@ -37,6 +37,4 @@ An interactive Data Analytics project built using **Python** and **Streamlit** t
 - Pandas
 - Plotly
 
----
 
-## 📂 Project Structure
